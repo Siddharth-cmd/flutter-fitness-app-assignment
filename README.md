@@ -19,8 +19,7 @@ Stay fit, organized, and motivated with the Fitness App. Download it now and emb
 Note: This project is created as part of an assignment and serves as a demonstration of Flutter app development skills.
 
 
-
-
-
+# Output:
+[Download apk](https://github.com/Siddharth-cmd/flutter-fitness-app-assignment/releases/download/major/app-release.apk)
 
 
