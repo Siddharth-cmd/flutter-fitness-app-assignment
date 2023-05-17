@@ -21,5 +21,6 @@ Note: This project is created as part of an assignment and serves as a demonstra
 
 # Output:
 [Download apk](https://github.com/Siddharth-cmd/flutter-fitness-app-assignment/releases/download/major/app-release.apk)
+[Walkthrough Video](https://drive.google.com/file/d/1k_5kUHkg9uAJv5gmrrrr29qdMsKY4Zpi/view?usp=sharing)
 
 
