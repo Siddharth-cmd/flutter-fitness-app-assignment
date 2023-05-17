@@ -1,7 +1,7 @@
 
 # Fitness App - Mark Favorites and Categorized Exercises
 
-
+![](https://github.com/Siddharth-cmd/flutter-fitness-app-assignment/blob/main/output.gif)
 
 
 Key Features:
